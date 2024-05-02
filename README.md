@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm dinhhongkong</h1> -->
-<h1 align="center">Hi <img src="https://github.com/dinhhongkong/dinhhongkong/blob/main/hi.gif" width="29px"> , I'm dinhhongkong</h1>
+<h1 align="center">Hi, I'm dinhhongkong</h1>
 <h3 align="center">A passionate developer from Vietnam <img src="https://github.com/dinhhongkong/dinhhongkong/blob/main/Vietnam-flag.gif" width="29px"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhhongkong&label=Profile%20views&color=0e75b6&style=flat" alt="dinhhongkong" /> </p>
