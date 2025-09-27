@@ -60,7 +60,7 @@
 
 <img src="github-contribution-grid-snake-dark.svg" alt="">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhhongkong&show_icons=true&locale=en&layout=compact" alt="dinhhongkong" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhhongkong&show_icons=true&locale=en&layout=compact" alt="dinhhongkong" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhhongkong&show_icons=true&locale=en" alt="dinhhongkong" /></p> -->
 
