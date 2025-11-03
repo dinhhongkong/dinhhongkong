@@ -58,7 +58,11 @@
 </a> 
 </p>
 
-<img src="github-contribution-grid-snake-dark.svg" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhhongkong&show_icons=true&locale=en&layout=compact" alt="dinhhongkong" /></p> -->
 
